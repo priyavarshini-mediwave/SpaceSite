@@ -3,3 +3,14 @@ body {
   background-image: url("space.avif");
   background-size: cover;
   text-align: center;
+  font-family: "Orbitron", sans-serif;
+}
+.btn {
+  padding: 6px 12px;
+  background-color: wheat;
+  border: none;
+  font-family: inherit;
+}
+.underline {
+  border-bottom: 2px white dotted;
+}
